@@ -11,4 +11,3 @@ app.use('/v1/myClass', classStudentRoutes)
 
 app.listen(PORT, () => console.log('Server is on PORT', PORT));
 
- 
